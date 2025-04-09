@@ -99,23 +99,11 @@ service ProductService {
 
 ## 6. ▶️ Exécution du projet
 
-### Lancer Kafka (avec Docker)
-```bash
-docker-compose up
-```
-
 ### Compiler et démarrer le projet
 ```bash
 mvn clean compile
 mvn spring-boot:run
 ```
-
-### Tester le service gRPC
-Utiliser :
-- un **client Java gRPC**
-- **Postman gRPC** ou **BloomRPC**
-
----
 
 ## 7. ✅ Conclusion
 
