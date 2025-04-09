@@ -112,5 +112,3 @@ Ce projet montre comment :
 - utiliser **gRPC** pour exposer une API efficace,
 - connecter le tout à Kafka via **Spring Cloud Stream**.
 
-C'est une excellente base pour des architectures modernes de microservices.
-
